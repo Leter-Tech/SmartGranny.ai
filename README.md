@@ -22,37 +22,37 @@ Navigating the internet safely, confidently, and independently is a significant 
 
 ## ✨ **Key Features**  
 
-### **Chat About Page**  
+### **1. Chat About Page**  
 
 > **Get instant help understanding any webpage. Our AI analyzes the page content and screenshots to explain things in simple terms, help with forms, and provide summaries. Just ask questions in plain language!**
 
 ---
 
-### **Easy Reading Mode**  
+### **2. Easy Reading Mode**  
 
 > **Make any webpage easier to read by adjusting text size and contrast. Perfect for seniors who need larger text or better visibility while browsing. Reduce eye strain and make online reading comfortable with customizable settings that work across all websites.**
 
 ---
 
-### **Scam Check**  
+### **3. Scam Check**  
 
 > **Stay safe online with our AI-powered scam detection. We analyze both text and screenshots to identify potential risks and explain them clearly. Get instant warnings about suspicious websites, phishing attempts, and online scams with easy-to-understand explanations of why they're risky.**
 
 ---
 
-### **Voice Navigation**  
+### **4. Voice Navigation**  
 
 > **Control your browser with simple voice commands. Scroll pages or open websites by just speaking - no need to click small buttons. Navigate the web hands-free with natural commands like "scroll down" or "open Gmail", making web browsing more comfortable and accessible.**
 
 ---
 
-### **Save Memories**  
+### **5. Save Memories**  
 
 > **Save important web pages and create custom notes for future reference. Never lose important information you find online. Organize your favorite recipes, health tips, and important documents with AI-generated summaries and your personal notes for easy access later.**
 
 ---
 
-### **Draft Assistant**  
+### **6. Draft Assistant**  
 
 > **Get help writing emails and messages. Our AI understands the webpage context to suggest appropriate responses, making online communication easier. Write confident replies to emails, social media posts, and online forms with AI assistance that understands the context.**
 
