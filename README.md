@@ -2,8 +2,7 @@
 
 **Empowering seniors to navigate the web with confidence, ease, and safety!**
 
-**SmartGranny.ai** is an AI-powered Chrome extension designed to assist elderly users with online tasks.  
-By combining text analysis and visual understanding, SmartGranny.ai makes the web more accessible, safer, and simpler for seniors.
+**SmartGranny.ai** is an AI-powered Chrome extension designed to assist elderly users with online tasks. By combining text analysis and visual understanding, SmartGranny.ai makes the web more accessible, safer, and simpler for seniors.
 
 ## 🚀 **Demo**
 
