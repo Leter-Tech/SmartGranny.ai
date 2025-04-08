@@ -58,6 +58,24 @@ Navigating the internet safely, confidently, and independently is a significant 
 
 ---
 
+## ⚙️ **How It Works**
+
+SmartGranny.ai combines text analysis and visual understanding to provide comprehensive assistance.
+
+### 1. Capture Page
+
+When you click the SmartGranny.ai icon, we automatically capture both the text content and a screenshot of the webpage you're viewing. This gives us a complete picture of what you're looking at, including all text, images, and layout.
+
+### 2. AI Analysis
+
+Our advanced AI analyzes both the text and visual elements to understand the page's content, layout, and context. This comprehensive analysis helps us provide accurate and helpful assistance tailored to your needs.
+
+### 3. Access All Features
+
+Use our full suite of features including chat assistance, easy reading mode, scam detection, voice navigation, page memories, and draft writing help. Each feature is designed to make your web browsing experience easier, safer, and more enjoyable.
+
+---
+
 ## 🛠️ **Technology Stack**
 
 ```mermaid
