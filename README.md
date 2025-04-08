@@ -22,9 +22,9 @@ Navigating the internet safely, confidently, and independently is a significant 
 
 ## ✨ **Key Features**  
 
-### **1. Chat About Page**  
+### **1. Chat About Page AI**  
 
-> **Get instant help understanding any webpage. Our AI analyzes the page content and screenshots to explain things in simple terms, helps with filling forms, and provides summaries. Just ask questions in plain language!**
+> **Get instant help understanding any webpage. Our AI analyzes the page content and screenshots to explain things in simple terms, help with forms, and provide summaries. Just ask questions in plain language!**
 
 ---
 
@@ -34,25 +34,25 @@ Navigating the internet safely, confidently, and independently is a significant 
 
 ---
 
-### **3. Scam Check**  
+### **3. Scam Check AI**  
 
 > **Stay safe online with our AI-powered scam detection. We analyze both text and screenshots to identify potential risks and explain them clearly. Get instant warnings about suspicious websites, phishing attempts, and online scams with easy-to-understand explanations of why they're risky.**
 
 ---
 
-### **4. Voice Navigation**  
+### **4. Voice Navigation AI**  
 
-> **Control your browser with simple voice commands. Scroll pages or open websites by just speaking - no need to click small buttons. Navigate the web hands-free with natural commands like "scroll down" or "open Gmail", making web browsing more comfortable and accessible.**
+> **Control your browser with simple voice commands. Scroll pages or open websites by just speaking — no need to click small buttons. Navigate the web hands-free with natural commands like "scroll down" or "open Gmail", or ask AI to open relevant sites like "open a meditation website" or "open an online multiplayer game", making browsing smarter, more comfortable, and accessible.**
 
 ---
 
-### **5. Save Memories**  
+### **5. Memories AI**  
 
 > **Save important web pages and create custom notes for future reference. Never lose important information you find online. Organize your favorite recipes, health tips, and important documents with AI-generated summaries and your personal notes for easy access later.**
 
 ---
 
-### **6. Draft Assistant**  
+### **6. Draft AI Assistant**  
 
 > **Get help writing emails and messages. Our AI understands the webpage context to suggest appropriate responses, making online communication easier. Write confident replies to emails, social media posts, and online forms with AI assistance that understands the context.**
 
