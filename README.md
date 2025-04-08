@@ -24,7 +24,7 @@ Navigating the internet safely, confidently, and independently is a significant 
 
 ### **1. Chat About Page**  
 
-> **Get instant help understanding any webpage. Our AI analyzes the page content and screenshots to explain things in simple terms, helps with filling forms, and provide summaries. Just ask questions in plain language!**
+> **Get instant help understanding any webpage. Our AI analyzes the page content and screenshots to explain things in simple terms, helps with filling forms, and provides summaries. Just ask questions in plain language!**
 
 ---
 
