@@ -118,11 +118,11 @@ graph TD
 - Stable internet connection for loading media and syncing data.
 
 ### Steps:
-1: Download the extension folder and unzip it
-2: Open Chrome and go to ```chrome://extensions/```
-3: Enable "Developer mode" in the top right corner
-4: Click "Load unpacked" and select the downloaded folder
-5: The SmartGranny.ai icon will appear in your web toolbar
+1. Download the extension folder and unzip it
+2. Open Chrome and go to ```chrome://extensions/```
+3. Enable "Developer mode" in the top right corner
+4. Click "Load unpacked" and select the downloaded folder
+5. The SmartGranny.ai icon will appear in your web toolbar
 
 ---
 
